@@ -22,7 +22,7 @@ Venturing into Machine Learning and Data Analytics domains, my goal is to unrave
 
 ## What to Expect
 
-Throughout this journey, I'll be documenting my progress, insights, and code snippets on my GitHub profile 👉 [Your GitHub link here]. Expect a rich blend of code explorations, musings on Machine Learning, Data Analytics, and programming adventures! 📊🤖
+Throughout this journey, I'll be documenting my progress, insights, and code snippets on my GitHub profile. Expect a rich blend of code explorations, musings on Machine Learning, Data Analytics, and programming adventures! 📊🤖
 
 ## Repository Structure
 
