@@ -1,6 +1,6 @@
 # 100 Days of Code Journey: Python, C++, Machine Learning, and Data Analytics 🚀🌟
 
-![Code Journey Banner](image_link_here)
+![Code Journey Banner]([image_link_here](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201216211829/100-Days-of-Code-%E2%80%93-A-Complete-Guide-For-Beginners-and-Experienced.jpg))
 
 ## Introduction
 
@@ -41,7 +41,7 @@ Feel free to contribute to this repository by:
 
 ## Let's Connect!
 
-Join me on this coding adventure! Connect with me on [LinkedIn](https://www.linkedin.com/yourprofile) and [GitHub](https://github.com/yourprofile). Let's share insights, collaborate, and grow together!
+Join me on this coding adventure! Connect with me on [LinkedIn]([https://www.linkedin.com/yourprofile](https://www.linkedin.com/in/vinit-lathiwala-080aa2214/)) and [GitHub]([https://github.com/yourprofile](https://github.com/Vinitv38?tab=repositories)). Let's share insights, collaborate, and grow together!
 
 ## Conclusion
 
