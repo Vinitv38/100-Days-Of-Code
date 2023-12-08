@@ -41,7 +41,7 @@ Feel free to contribute to this repository by:
 
 ## Let's Connect!
 
-Join me on this coding adventure! Connect with me on [LinkedIn]([https://www.linkedin.com/yourprofile](https://www.linkedin.com/in/vinit-lathiwala-080aa2214/)) and [GitHub]([https://github.com/yourprofile](https://github.com/Vinitv38?tab=repositories)). Let's share insights, collaborate, and grow together!
+Join me on this coding adventure! Connect with me on [LinkedIn](https://www.linkedin.com/in/vinit-lathiwala-080aa2214/) and [GitHub](https://github.com/Vinitv38?tab=repositories). Let's share insights, collaborate, and grow together!
 
 ## Conclusion
 
