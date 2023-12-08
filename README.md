@@ -1,6 +1,6 @@
 # 100 Days of Code Journey: Python, C++, Machine Learning, and Data Analytics 🚀🌟
 
-!([https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201216211829/100-Days-of-Code-%E2%80%93-A-Complete-Guide-For-Beginners-and-Experienced.jpg)
+!(https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201216211829/100-Days-of-Code-%E2%80%93-A-Complete-Guide-For-Beginners-and-Experienced.jpg)
 
 ## Introduction
 
